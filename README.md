@@ -1,4 +1,4 @@
-1. Abstract
+1. Abstract:
 The Player Profile Management System is a simple C-based application developed to store,
  manage, and update player information efficiently. It allows users to add new players, view
  all players, search specific players using their ID, update player details, and delete
